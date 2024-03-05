@@ -1,1 +1,1 @@
-When going into the console log, the words I submitted did not go through and refreshed the page. Is there any way to fix that? That is the only thing I am missing, and I am sure I have all the correct code for everything besides this.
+
